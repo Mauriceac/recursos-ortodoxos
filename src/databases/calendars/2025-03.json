@@ -1,0 +1,2515 @@
+[
+    {
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "day": 1,
+        "fast_exception": 7,
+        "fast_exception_desc": "Ayuno de Carne",
+        "fast_level": 1,
+        "fast_level_desc": "Ayuno",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Conmemoración de los Monásticos Justos Difuntos"
+        ],
+        "julian_day_number": 2460736,
+        "month": 3,
+        "pascha_distance": -50,
+        "readings": [
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 14.19-23, 16.25-27",
+                "passage": null,
+                "short_display": "Rom 14.19-23, 16.25-27",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Romanos 14.19-23, 16.25-27"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "Galatians 5.22-6.2",
+                "passage": null,
+                "short_display": "Gal 5.22-6.2",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "Gálatas 5.22-6.2"
+                }
+            },
+            {
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 6.1-13",
+                "passage": null,
+                "short_display": "Matt 6.1-13",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Mateo 6.1-13"
+                }
+            },
+            {
+                "book": "Matthew",
+                "description": "Departed",
+                "display": "Matthew 11.27-30",
+                "passage": null,
+                "short_display": "Matt 11.27-30",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "Mateo 11.27-30"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Eudoxia of Heliopolis"
+        ],
+        "service_notes": null,
+        "summary_title": "Commemoration of Departed Righteous Monastics",
+        "titles": [
+            "Sábado de la Semana de la Queso"
+        ],
+        "tone": 2,
+        "weekday": 6,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "day": 2,
+        "fast_exception": 7,
+        "fast_exception_desc": "Ayuno de Carne",
+        "fast_level": 1,
+        "fast_level_desc": "Ayuno",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": [
+            "Domingo del Perdón"
+        ],
+        "julian_day_number": 2460737,
+        "month": 3,
+        "pascha_distance": -49,
+        "readings": [
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 16.9-20",
+                "passage": null,
+                "short_display": "Mark 16.9-20",
+                "source": "3rd Matins Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 16.9-20"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Romans 13.11-14.4",
+                "passage": null,
+                "short_display": "Rom 13.11-14.4",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Romanos 13.11-14.4"
+                }
+            },
+            {
+                "book": "Matthew",
+                "description": "",
+                "display": "Matthew 6.14-21",
+                "passage": null,
+                "short_display": "Matt 6.14-21",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Mateo 6.14-21"
+                }
+            }
+        ],
+        "saints": [
+            "Hieromartyr Theodotus, Bishop of Cyrenia",
+            "St Arseny, Bishop of Tver",
+            "The Four Hundred and Forty Martyrs of Lombardy (579)",
+            "Holy Martyr Euthalia (257)"
+        ],
+        "service_notes": null,
+        "summary_title": "Sunday of Cheesefare: Expulsion of Adam from Paradise",
+        "titles": [
+            "Domingo de la Semana de la Queso: Expulsión de Adán del Paraíso"
+        ],
+        "tone": 3,
+        "weekday": 0,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 3,
+        "fast_exception": 10,
+        "fast_exception_desc": "Sin excepciones",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Comienzo del Gran Ayuno"
+        ],
+        "julian_day_number": 2460738,
+        "month": 3,
+        "pascha_distance": -48,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 1.1-20",
+                "passage": null,
+                "short_display": "Isa 1.1-20",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 1.1-20"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.1-13",
+                "passage": null,
+                "short_display": "Gen 1.1-13",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 1.1-13"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 1.1-20",
+                "passage": null,
+                "short_display": "Prov 1.1-20",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 1.1-20"
+                }
+            }
+        ],
+        "saints": [
+            "Martyrs Eutropius, Cleonicus and Basiliscus",
+            "An Unknown Girl in Alexandria (?)"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "summary_title": "Beginning of the Great Fast",
+        "titles": [
+            "Lunes de la Primera Semana de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 1,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 4,
+        "fast_exception": 10,
+        "fast_exception_desc": "Sin excepciones",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460739,
+        "month": 3,
+        "pascha_distance": -47,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 1.19-2.3",
+                "passage": null,
+                "short_display": "Isa 1.19-2.3",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 1.19-2.3"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.14-23",
+                "passage": null,
+                "short_display": "Gen 1.14-23",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 1.14-23"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 1.20-33",
+                "passage": null,
+                "short_display": "Prov 1.20-33",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 1.20-33"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Gerasimus of the Jordan",
+            "Rt. Blv. Prince Daniel of Moscow",
+            "St James the Faster of Phoenecia (6th c.)"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "summary_title": "Ven. Gerasimus of the Jordan; Rt. Blv. Prince Daniel of Moscow",
+        "titles": [
+            "Martes de la Primera Semana de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 2,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 5,
+        "fast_exception": 10,
+        "fast_exception_desc": "Sin excepciones",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460740,
+        "month": 3,
+        "pascha_distance": -46,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 2.3-11",
+                "passage": null,
+                "short_display": "Isa 2.3-11",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 2.3-11"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 1.24-2.3",
+                "passage": null,
+                "short_display": "Gen 1.24-2.3",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 1.24-2.3"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 2.1-22",
+                "passage": null,
+                "short_display": "Prov 2.1-22",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 2.1-22"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Conon of Isauria",
+            "St Mark of Athens (4th c.)",
+            "St Mark the Ascetic (5th c.)"
+        ],
+        "service_notes": [
+            "Great Canon; Presanctified Liturgy"
+        ],
+        "summary_title": "Martyr Conon of Isauria",
+        "titles": [
+            "Miércoles de la Primera Semana de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 3,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 6,
+        "fast_exception": 10,
+        "fast_exception_desc": "Sin excepciones",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460741,
+        "month": 3,
+        "pascha_distance": -45,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 2.11-21",
+                "passage": null,
+                "short_display": "Isa 2.11-21",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 2.11-21"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 2.4-19",
+                "passage": null,
+                "short_display": "Gen 2.4-19",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 2.4-19"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.1-18",
+                "passage": null,
+                "short_display": "Prov 3.1-18",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 3.1-18"
+                }
+            }
+        ],
+        "saints": [
+            "Forty-two Martyrs of Ammoria"
+        ],
+        "service_notes": [
+            "Great Canon"
+        ],
+        "summary_title": "Forty-two Martyrs of Ammoria",
+        "titles": [
+            "Jueves de la Primera Semana de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 4,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 7,
+        "fast_exception": 10,
+        "fast_exception_desc": "Sin excepciones",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460742,
+        "month": 3,
+        "pascha_distance": -44,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 3.1-14",
+                "passage": null,
+                "short_display": "Isa 3.1-14",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 3.1-14"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 2.20-3.20",
+                "passage": null,
+                "short_display": "Gen 2.20-3.20",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 2.20-3.20"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.19-34",
+                "passage": null,
+                "short_display": "Prov 3.19-34",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 3.19-34"
+                }
+            }
+        ],
+        "saints": [
+            "Seven Hieromartyrs of Cherson"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Seven Hieromartyrs of Cherson",
+        "titles": [
+            "Viernes de la Primera Semana de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 5,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "day": 8,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "San Teodoro Tiro (el Recluta)"
+        ],
+        "julian_day_number": 2460743,
+        "month": 3,
+        "pascha_distance": -43,
+        "readings": [
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 1.1-12",
+                "passage": null,
+                "short_display": "Heb 1.1-12",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 1.1-12"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "St Theodore",
+                "display": "2 Timothy 2.1-10",
+                "passage": null,
+                "short_display": "2 Tim 2.1-10",
+                "source": "Epistle",
+                "translation": {
+                    "description": "San Teodoro",
+                    "display": "2 Timoteo 2.1-10"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.23-3.5",
+                "passage": null,
+                "short_display": "Mark 2.23-3.5",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 2.23-3.5"
+                }
+            },
+            {
+                "book": "John",
+                "description": "St Theodore",
+                "display": "John 15.17-16.2",
+                "passage": null,
+                "short_display": "John 15.17-16.2",
+                "source": "Gospel",
+                "translation": {
+                    "description": "San Teodoro",
+                    "display": "Juan 15.17-16.2"
+                }
+            }
+        ],
+        "saints": [
+            "St Theophylactus, Bishop of Nicomedia",
+            "Hieromartyr Theodoretus (362)"
+        ],
+        "service_notes": null,
+        "summary_title": "St Theodore Tyro (the Recruit)",
+        "titles": [
+            "Primer Sábado de Cuaresma"
+        ],
+        "tone": 3,
+        "weekday": 6,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            4,
+            6
+        ],
+        "day": 9,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Domingo de la Ortodoxia",
+            "Santos Cuarenta Mártires de Sebaste"
+        ],
+        "julian_day_number": 2460744,
+        "month": 3,
+        "pascha_distance": -42,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Isaiah 43.9-14",
+                "passage": null,
+                "short_display": "Isa 43.9-14",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Mártires",
+                    "display": "Isaías 43.9-14"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 3.1-9",
+                "passage": null,
+                "short_display": "Wis 3.1-9",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Mártires",
+                    "display": "Sabiduría de Salomón 3.1-9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Martyrs",
+                "display": "Wisdom of Solomon 5.15-6.3",
+                "passage": null,
+                "short_display": "Wis 5.15-6.3",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Mártires",
+                    "display": "Sabiduría de Salomón 5.15-6.3"
+                }
+            },
+            {
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.1-12",
+                "passage": null,
+                "short_display": "Luke 24.1-12",
+                "source": "4th Matins Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Lucas 24.1-12"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 11.24-26, 32-12.2",
+                "passage": null,
+                "short_display": "Heb 11.24-26, 32-12.2",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 11.24-26, 32-12.2"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Martyrs",
+                "display": "Hebrews 12.1-10",
+                "passage": null,
+                "short_display": "Heb 12.1-10",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Mártires",
+                    "display": "Hebreos 12.1-10"
+                }
+            },
+            {
+                "book": "John",
+                "description": "",
+                "display": "John 1.43-51",
+                "passage": null,
+                "short_display": "John 1.43-51",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Juan 1.43-51"
+                }
+            },
+            {
+                "book": "Matthew",
+                "description": "Martyrs",
+                "display": "Matthew 20.1-16",
+                "passage": null,
+                "short_display": "Matt 20.1-16",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Mártires",
+                    "display": "Mateo 20.1-16"
+                }
+            }
+        ],
+        "saints": [
+            "St Caesarius (369)"
+        ],
+        "service_notes": null,
+        "summary_title": "First Sunday of Lent",
+        "titles": [
+            "Primer Domingo de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 0,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 10,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460745,
+        "month": 3,
+        "pascha_distance": -41,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 4.2-5.7",
+                "passage": null,
+                "short_display": "Isa 4.2-5.7",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 4.2-5.7"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 3.21-4.7",
+                "passage": null,
+                "short_display": "Gen 3.21-4.7",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 3.21-4.7"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 3.34-4.22",
+                "passage": null,
+                "short_display": "Prov 3.34-4.22",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 3.34-4.22"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Quadratus and Companions",
+            "Our Holy Mother Anastasia (563)"
+        ],
+        "service_notes": null,
+        "summary_title": "Martyr Quadratus and Companions",
+        "titles": [
+            "Lunes de la Segunda Semana de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 1,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 11,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "julian_day_number": 2460746,
+        "month": 3,
+        "pascha_distance": -40,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.7-16",
+                "passage": null,
+                "short_display": "Isa 5.7-16",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 5.7-16"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.8-15",
+                "passage": null,
+                "short_display": "Gen 4.8-15",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 4.8-15"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.1-15",
+                "passage": null,
+                "short_display": "Prov 5.1-15",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 5.1-15"
+                }
+            }
+        ],
+        "saints": [
+            "St. Sophronius, Patriarch of Jerusalem",
+            "St Euthymius, Bishop of Novgorod",
+            "St Sophronios, patriarch of Jerusalem (638)",
+            "St John Moschos, author of the Spiritual Meadow (622)",
+            "Holy Martyr Pionius (250)"
+        ],
+        "service_notes": null,
+        "summary_title": "St. Sophronius, Patriarch of Jerusalem; St Euthymius, Bishop of Novgorod",
+        "titles": [
+            "Martes de la Segunda Semana de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 2,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 12,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460747,
+        "month": 3,
+        "pascha_distance": -39,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 5.16-25",
+                "passage": null,
+                "short_display": "Isa 5.16-25",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 5.16-25"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 4.16-26",
+                "passage": null,
+                "short_display": "Gen 4.16-26",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 4.16-26"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 5.15-6.3",
+                "passage": null,
+                "short_display": "Prov 5.15-6.3",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 5.15-6.3"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Theophanes the Confessor",
+            "St Gregory the Great (the Dialogist), Pope of Rome (604)",
+            "Repose of St Symeon the New Theologian (1021)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Ven. Theophanes the Confessor",
+        "titles": [
+            "Miércoles de la Segunda Semana de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 3,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 13,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460748,
+        "month": 3,
+        "pascha_distance": -38,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 6.1-12",
+                "passage": null,
+                "short_display": "Isa 6.1-12",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 6.1-12"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.1-24",
+                "passage": null,
+                "short_display": "Gen 5.1-24",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 5.1-24"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.3-20",
+                "passage": null,
+                "short_display": "Prov 6.3-20",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 6.3-20"
+                }
+            }
+        ],
+        "saints": [
+            "Trans. Rel. Nicephorus, Patr. Constantinopole"
+        ],
+        "service_notes": null,
+        "summary_title": "Trans. Rel. Nicephorus, Patr. Constantinopole",
+        "titles": [
+            "Jueves de la Segunda Semana de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 4,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 14,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460749,
+        "month": 3,
+        "pascha_distance": -37,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 7.1-14",
+                "passage": null,
+                "short_display": "Isa 7.1-14",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 7.1-14"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 5.32-6.8",
+                "passage": null,
+                "short_display": "Gen 5.32-6.8",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 5.32-6.8"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 6.20-7.1",
+                "passage": null,
+                "short_display": "Prov 6.20-7.1",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 6.20-7.1"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Benedict of Nursia",
+            "St Theognostus, Metropolitan of Kiev (1353)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Ven. Benedict of Nursia",
+        "titles": [
+            "Viernes de la Segunda Semana de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 5,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "day": 15,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Sábado de Difuntos"
+        ],
+        "julian_day_number": 2460750,
+        "month": 3,
+        "pascha_distance": -36,
+        "readings": [
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 3.12-16",
+                "passage": null,
+                "short_display": "Heb 3.12-16",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 3.12-16"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "passage": null,
+                "short_display": "1 Thess 4.13-17",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "1 Tesalonicenses 4.13-17"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 1.35-44",
+                "passage": null,
+                "short_display": "Mark 1.35-44",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 1.35-44"
+                }
+            },
+            {
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "passage": null,
+                "short_display": "John 5.24-30",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "Juan 5.24-30"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Agapius and Seven with Him",
+            "Holy Martyr Alexander (270-275)"
+        ],
+        "service_notes": null,
+        "summary_title": "Memorial Saturday",
+        "titles": [
+            "Segundo Sábado de Cuaresma"
+        ],
+        "tone": 4,
+        "weekday": 6,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "day": 16,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "San Gregorio Palamás"
+        ],
+        "julian_day_number": 2460751,
+        "month": 3,
+        "pascha_distance": -35,
+        "readings": [
+            {
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.12-35",
+                "passage": null,
+                "short_display": "Luke 24.12-35",
+                "source": "5th Matins Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Lucas 24.12-35"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 1.10-2.3",
+                "passage": null,
+                "short_display": "Heb 1.10-2.3",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 1.10-2.3"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "St Gregory",
+                "display": "Hebrews 7.26-8.2",
+                "passage": null,
+                "short_display": "Heb 7.26-8.2",
+                "source": "Epistle",
+                "translation": {
+                    "description": "San Gregorio",
+                    "display": "Hebreos 7.26-8.2"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.1-12",
+                "passage": null,
+                "short_display": "Mark 2.1-12",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 2.1-12"
+                }
+            },
+            {
+                "book": "John",
+                "description": "St Gregory",
+                "display": "John 10.9-16",
+                "passage": null,
+                "short_display": "John 10.9-16",
+                "source": "Gospel",
+                "translation": {
+                    "description": "San Gregorio",
+                    "display": "Juan 10.9-16"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Sabinas of Egypt",
+            "Our Holy Father Christodoulos, Wonderworker of Patmos (1111)",
+            "Holy Apostle Aristobulus of the Seventy, first Bishop of Britain (1st c.)"
+        ],
+        "service_notes": null,
+        "summary_title": "Second Sunday of Lent",
+        "titles": [
+            "Segundo Domingo de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 0,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 17,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "julian_day_number": 2460752,
+        "month": 3,
+        "pascha_distance": -34,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 8.13-9.7",
+                "passage": null,
+                "short_display": "Isa 8.13-9.7",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 8.13-9.7"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 6.9-22",
+                "passage": null,
+                "short_display": "Gen 6.9-22",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 6.9-22"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 8.1-21",
+                "passage": null,
+                "short_display": "Prov 8.1-21",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 8.1-21"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Alexius the Man of God",
+            "Ven. Makary of Kalyazinsk",
+            "St Alexis, the Man of God (411)",
+            "St Patrick, Enlightener of Ireland (ca. 461)"
+        ],
+        "service_notes": null,
+        "summary_title": "Ven. Alexius the Man of God; Ven. Makary of Kalyazinsk",
+        "titles": [
+            "Lunes de la Tercera Semana de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 1,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 18,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460753,
+        "month": 3,
+        "pascha_distance": -33,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 9.9-10.4",
+                "passage": null,
+                "short_display": "Isa 9.9-10.4",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 9.9-10.4"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.1-5",
+                "passage": null,
+                "short_display": "Gen 7.1-5",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 7.1-5"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 8.32-9.11",
+                "passage": null,
+                "short_display": "Prov 8.32-9.11",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 8.32-9.11"
+                }
+            }
+        ],
+        "saints": [
+            "St Cyril, Archbishop of Jerusalem",
+            "Rep. St Nikolaj of Zhicha",
+            "St Ananias (Aninus) the Wonderworker (?)",
+            "Saint Nikolai (Velimirovic), Bishop of Ochrid and Zica, Serbia (1956)(March 5 OC)"
+        ],
+        "service_notes": null,
+        "summary_title": "St Cyril, Archbishop of Jerusalem; Rep. St Nikolaj of Zhicha",
+        "titles": [
+            "Martes de la Tercera Semana de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 2,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 19,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460754,
+        "month": 3,
+        "pascha_distance": -32,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 10.12-20",
+                "passage": null,
+                "short_display": "Isa 10.12-20",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 10.12-20"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.6-9",
+                "passage": null,
+                "short_display": "Gen 7.6-9",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 7.6-9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 9.12-18 (LXX)",
+                "passage": null,
+                "short_display": "Prov 9.12-18",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 9.12-18 (LXX)"
+                }
+            }
+        ],
+        "saints": [
+            "Martyrs Chrysanthius and Daria"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Martyrs Chrysanthius and Daria",
+        "titles": [
+            "Miércoles de la Tercera Semana de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 3,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 20,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460755,
+        "month": 3,
+        "pascha_distance": -31,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 11.10-12.2",
+                "passage": null,
+                "short_display": "Isa 11.10-12.2",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 11.10-12.2"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 7.11-8.3",
+                "passage": null,
+                "short_display": "Gen 7.11-8.3",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 7.11-8.3"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 10.1-22",
+                "passage": null,
+                "short_display": "Prov 10.1-22",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 10.1-22"
+                }
+            }
+        ],
+        "saints": [
+            "Holy Fathers Slain at St Sabbas Monastery",
+            "St Photine the Samaritan Woman (66)",
+            "St Cuthbert the Wonderworker, Bishop of Lindisfarne (687)"
+        ],
+        "service_notes": null,
+        "summary_title": "Holy Fathers Slain at St Sabbas Monastery",
+        "titles": [
+            "Jueves de la Tercera Semana de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 4,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 21,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460756,
+        "month": 3,
+        "pascha_distance": -30,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 13.2-13",
+                "passage": null,
+                "short_display": "Isa 13.2-13",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 13.2-13"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 8.4-21",
+                "passage": null,
+                "short_display": "Gen 8.4-21",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 8.4-21"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 10.31-11.12",
+                "passage": null,
+                "short_display": "Prov 10.31-11.12",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 10.31-11.12"
+                }
+            }
+        ],
+        "saints": [
+            "St James the Confessor of Catania",
+            "Our Holy Father Serapion (366)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "St James the Confessor of Catania",
+        "titles": [
+            "Viernes de la Tercera Semana de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 5,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "day": 22,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Sábado de Difuntos"
+        ],
+        "julian_day_number": 2460757,
+        "month": 3,
+        "pascha_distance": -29,
+        "readings": [
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 10.32-38",
+                "passage": null,
+                "short_display": "Heb 10.32-38",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 10.32-38"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Thessalonians 4.13-17",
+                "passage": null,
+                "short_display": "1 Thess 4.13-17",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "1 Tesalonicenses 4.13-17"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 2.14-17",
+                "passage": null,
+                "short_display": "Mark 2.14-17",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 2.14-17"
+                }
+            },
+            {
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "passage": null,
+                "short_display": "John 5.24-30",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "Juan 5.24-30"
+                }
+            }
+        ],
+        "saints": [
+            "Hieromartyr Basil of Ancyra",
+            "Martyr Drosida of Antioch, and five nuns (104)"
+        ],
+        "service_notes": null,
+        "summary_title": "Memorial Saturday",
+        "titles": [
+            "Tercer Sábado de Cuaresma"
+        ],
+        "tone": 5,
+        "weekday": 6,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            1,
+            2
+        ],
+        "day": 23,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Veneración de la Preciosa Cruz"
+        ],
+        "julian_day_number": 2460758,
+        "month": 3,
+        "pascha_distance": -28,
+        "readings": [
+            {
+                "book": "Luke",
+                "description": "",
+                "display": "Luke 24.36-53",
+                "passage": null,
+                "short_display": "Luke 24.36-53",
+                "source": "6th Matins Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Lucas 24.36-53"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 4.14-5.6",
+                "passage": null,
+                "short_display": "Heb 4.14-5.6",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 4.14-5.6"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 8.34-9.1",
+                "passage": null,
+                "short_display": "Mark 8.34-9.1",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 8.34-9.1"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Nikon and 199 Disciples"
+        ],
+        "service_notes": null,
+        "summary_title": "Third Sunday of Lent",
+        "titles": [
+            "Tercer Domingo de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 0,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 24,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Pre-fiesta de la Anunciación"
+        ],
+        "julian_day_number": 2460759,
+        "month": 3,
+        "pascha_distance": -27,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 14.24-32",
+                "passage": null,
+                "short_display": "Isa 14.24-32",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 14.24-32"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 8.21-9.7",
+                "passage": null,
+                "short_display": "Gen 8.21-9.7",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 8.21-9.7"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 11.19-12.6",
+                "passage": null,
+                "short_display": "Prov 11.19-12.6",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 11.19-12.6"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Genesis 28.10-17",
+                "passage": null,
+                "short_display": "Gen 28.10-17",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Génesis 28.10-17"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Ezekiel 43.27-44.4",
+                "passage": null,
+                "short_display": "Ezek 43.27-44.4",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Ezequiel 43.27-44.4"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 9.1-11",
+                "passage": null,
+                "short_display": "Prov 9.1-11",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Proverbios 9.1-11"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Zachariah the Recluse",
+            "Saint Zacharias the Recluse of Egypt (4th c.)",
+            "Commemoration of the Miracle at the Monastery of the Caves in Kiev (?)"
+        ],
+        "service_notes": null,
+        "summary_title": "Forefeast of Annunciation",
+        "titles": [
+            "Lunes de la Cuarta Semana de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 1,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            6,
+            7
+        ],
+        "day": 25,
+        "fast_exception": 4,
+        "fast_exception_desc": "Se Permite Pescado, Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 7,
+        "feast_level_description": "Major feast Theotokos",
+        "feasts": [
+            "Anunciación de la Santísima Theotokos"
+        ],
+        "julian_day_number": 2460760,
+        "month": 3,
+        "pascha_distance": -26,
+        "readings": [
+            {
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.39-49, 56",
+                "passage": null,
+                "short_display": "Luke 1.39-49, 56",
+                "source": "Matins Gospel",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Lucas 1.39-49, 56"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 25.1-9",
+                "passage": null,
+                "short_display": "Isa 25.1-9",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 25.1-9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 9.8-17",
+                "passage": null,
+                "short_display": "Gen 9.8-17",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 9.8-17"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 12.8-22",
+                "passage": null,
+                "short_display": "Prov 12.8-22",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 12.8-22"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Exodus 3.1-8",
+                "passage": null,
+                "short_display": "Exod 3.1-8",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Éxodo 3.1-8"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "Annunciation",
+                "display": "Proverbs 8.22-30",
+                "passage": null,
+                "short_display": "Prov 8.22-30",
+                "source": "Vespers",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Proverbios 8.22-30"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Annunciation",
+                "display": "Hebrews 2.11-18",
+                "passage": null,
+                "short_display": "Heb 2.11-18",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Hebreos 2.11-18"
+                }
+            },
+            {
+                "book": "Luke",
+                "description": "Annunciation",
+                "display": "Luke 1.24-38",
+                "passage": null,
+                "short_display": "Luke 1.24-38",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Anunciación",
+                    "display": "Lucas 1.24-38"
+                }
+            }
+        ],
+        "saints": [
+            "New Confessor/Hieromartyr Tikhon, patriarch of Moscow (1925)"
+        ],
+        "service_notes": null,
+        "summary_title": "Annunciation Most Holy Theotokos",
+        "titles": [
+            "Martes de la Cuarta Semana de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 2,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            3,
+            4
+        ],
+        "day": 26,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 3,
+        "feast_level_description": "Red squigg (doxology typikon symbol)",
+        "feasts": null,
+        "julian_day_number": 2460761,
+        "month": 3,
+        "pascha_distance": -25,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 26.21-27.9",
+                "passage": null,
+                "short_display": "Isa 26.21-27.9",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 26.21-27.9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 9.18-10.1",
+                "passage": null,
+                "short_display": "Gen 9.18-10.1",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 9.18-10.1"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 12.23-13.9 (LXX)",
+                "passage": null,
+                "short_display": "Prov 12.23-13.9",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 12.23-13.9 (LXX)"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Theotokos",
+                "display": "Hebrews 2.11-18",
+                "passage": null,
+                "short_display": "Heb 2.11-18",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Theotokos",
+                    "display": "Hebreos 2.11-18"
+                }
+            },
+            {
+                "book": "Luke",
+                "description": "Theotokos",
+                "display": "Luke 1.24-38",
+                "passage": null,
+                "short_display": "Luke 1.24-38",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Theotokos",
+                    "display": "Lucas 1.24-38"
+                }
+            }
+        ],
+        "saints": [
+            "Leavetaking of Annunciation",
+            "Synaxis of Archangel Gabriel",
+            "Synaxis of the Archangel Gabriel"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Leavetaking of Annunciation; Synaxis of Archangel Gabriel",
+        "titles": [
+            "Miércoles de la Cuarta Semana de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 3,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 27,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": null,
+        "julian_day_number": 2460762,
+        "month": 3,
+        "pascha_distance": -24,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 28.14-22",
+                "passage": null,
+                "short_display": "Isa 28.14-22",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 28.14-22"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 10.32-11.9",
+                "passage": null,
+                "short_display": "Gen 10.32-11.9",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 10.32-11.9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 13.19-14.6",
+                "passage": null,
+                "short_display": "Prov 13.19-14.6",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 13.19-14.6"
+                }
+            }
+        ],
+        "saints": [
+            "Martyr Matrona of Thessalonica"
+        ],
+        "service_notes": null,
+        "summary_title": "Martyr Matrona of Thessalonica",
+        "titles": [
+            "Jueves de la Cuarta Semana de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 4,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            1,
+            2
+        ],
+        "day": 28,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 1,
+        "feast_level_description": "Presanctified",
+        "feasts": null,
+        "julian_day_number": 2460763,
+        "month": 3,
+        "pascha_distance": -23,
+        "readings": [
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 29.13-23",
+                "passage": null,
+                "short_display": "Isa 29.13-23",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 29.13-23"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 12.1-7",
+                "passage": null,
+                "short_display": "Gen 12.1-7",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 12.1-7"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 14.15-26",
+                "passage": null,
+                "short_display": "Prov 14.15-26",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 14.15-26"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. Hilarion the New",
+            "Repose of Gerontissa Gavrilia (1992) (March 15 OC)"
+        ],
+        "service_notes": [
+            "Presanctified Liturgy"
+        ],
+        "summary_title": "Ven. Hilarion the New",
+        "titles": [
+            "Viernes de la Cuarta Semana de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 5,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            0,
+            2
+        ],
+        "day": 29,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "Sábado de Difuntos"
+        ],
+        "julian_day_number": 2460764,
+        "month": 3,
+        "pascha_distance": -22,
+        "readings": [
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 6.9-12",
+                "passage": null,
+                "short_display": "Heb 6.9-12",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 6.9-12"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "Departed",
+                "display": "1 Corinthians 15.47-57",
+                "passage": null,
+                "short_display": "1 Cor 15.47-57",
+                "source": "Epistle",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "1 Corintios 15.47-57"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 7.31-37",
+                "passage": null,
+                "short_display": "Mark 7.31-37",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 7.31-37"
+                }
+            },
+            {
+                "book": "John",
+                "description": "Departed",
+                "display": "John 5.24-30",
+                "passage": null,
+                "short_display": "John 5.24-30",
+                "source": "Gospel",
+                "translation": {
+                    "description": "Difuntos",
+                    "display": "Juan 5.24-30"
+                }
+            }
+        ],
+        "saints": [
+            "Hieromartyr Mark, Bishop of Anthusa",
+            "Our Holy Father John the Hermit (4th c.)"
+        ],
+        "service_notes": null,
+        "summary_title": "Memorial Saturday",
+        "titles": [
+            "Cuarto Sábado de Cuaresma"
+        ],
+        "tone": 6,
+        "weekday": 6,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            1,
+            3
+        ],
+        "day": 30,
+        "fast_exception": 3,
+        "fast_exception_desc": "Se Permite Vino y Aceite",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 0,
+        "feast_level_description": "Liturgy",
+        "feasts": [
+            "San Juan Clímaco"
+        ],
+        "julian_day_number": 2460765,
+        "month": 3,
+        "pascha_distance": -21,
+        "readings": [
+            {
+                "book": "John",
+                "description": "",
+                "display": "John 20.1-10",
+                "passage": null,
+                "short_display": "John 20.1-10",
+                "source": "7th Matins Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Juan 20.1-10"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "",
+                "display": "Hebrews 6.13-20",
+                "passage": null,
+                "short_display": "Heb 6.13-20",
+                "source": "Epistle",
+                "translation": {
+                    "description": "",
+                    "display": "Hebreos 6.13-20"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "St John",
+                "display": "Ephesians 5.8-19",
+                "passage": null,
+                "short_display": "Eph 5.8-19",
+                "source": "Epistle",
+                "translation": {
+                    "description": "San Juan",
+                    "display": "Efesios 5.8-19"
+                }
+            },
+            {
+                "book": "Mark",
+                "description": "",
+                "display": "Mark 9.17-31",
+                "passage": null,
+                "short_display": "Mark 9.17-31",
+                "source": "Gospel",
+                "translation": {
+                    "description": "",
+                    "display": "Marcos 9.17-31"
+                }
+            },
+            {
+                "book": "Matthew",
+                "description": "St John",
+                "display": "Matthew 4.25-5.12",
+                "passage": null,
+                "short_display": "Matt 4.25-5.12",
+                "source": "Gospel",
+                "translation": {
+                    "description": "San Juan",
+                    "display": "Mateo 4.25-5.12"
+                }
+            }
+        ],
+        "saints": [
+            "Ven. John Climacus",
+            "Commemoration of an Uncondemning Monk"
+        ],
+        "service_notes": null,
+        "summary_title": "Fourth Sunday of Lent",
+        "titles": [
+            "Cuarto Domingo de Cuaresma"
+        ],
+        "tone": 7,
+        "weekday": 0,
+        "year": 2025
+    },
+    {
+        "abbreviated_reading_indices": [
+            7,
+            8
+        ],
+        "day": 31,
+        "fast_exception": 0,
+        "fast_exception_desc": "",
+        "fast_level": 2,
+        "fast_level_desc": "Ayuno de Cuaresma",
+        "feast_level": 4,
+        "feast_level_description": "Red cross (polyeleos typikon symbol)",
+        "feasts": [
+            "Reposo de San Inocencio, Metr. de Moscú y Apóstol de las Américas"
+        ],
+        "julian_day_number": 2460766,
+        "month": 3,
+        "pascha_distance": -20,
+        "readings": [
+            {
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.1-9",
+                "passage": null,
+                "short_display": "John 10.1-9",
+                "source": "Matins Gospel",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Juan 10.1-9"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Isaiah 37.33-38.6",
+                "passage": null,
+                "short_display": "Isa 37.33-38.6",
+                "source": "6th Hour",
+                "translation": {
+                    "description": "",
+                    "display": "Isaías 37.33-38.6"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Genesis 13.12-18",
+                "passage": null,
+                "short_display": "Gen 13.12-18",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Génesis 13.12-18"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "",
+                "display": "Proverbs 14.27-15.4",
+                "passage": null,
+                "short_display": "Prov 14.27-15.4",
+                "source": "Vespers",
+                "translation": {
+                    "description": "",
+                    "display": "Proverbios 14.27-15.4"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 2 - Proverbs 10, 3, 8",
+                "passage": null,
+                "short_display": "Prov 10, 3, 8",
+                "source": "Vespers",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Composite 2 - Proverbios 10, 3, 8"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 3 - Wisdom of Solomon 4, 5",
+                "passage": null,
+                "short_display": "Wis 4, 5",
+                "source": "Vespers",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Composite 3 - Sabiduría de Salomón 4, 5"
+                }
+            },
+            {
+                "book": "OT",
+                "description": "St Innocent",
+                "display": "Composite 4 - Proverbs 10; Wisdom of Solomon 6, 7, 8, 9",
+                "passage": null,
+                "short_display": "Prov 10; Wis 6, 7, 8, 9",
+                "source": "Vespers",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Composite 4 - Proverbios 10; Sabiduría de Salomón 6, 7, 8, 9"
+                }
+            },
+            {
+                "book": "Apostol",
+                "description": "St Innocent",
+                "display": "Hebrews 7.26-8.2",
+                "passage": null,
+                "short_display": "Heb 7.26-8.2",
+                "source": "Epistle",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Hebreos 7.26-8.2"
+                }
+            },
+            {
+                "book": "John",
+                "description": "St Innocent",
+                "display": "John 10.9-16",
+                "passage": null,
+                "short_display": "John 10.9-16",
+                "source": "Gospel",
+                "translation": {
+                    "description": "San Inocencio",
+                    "display": "Juan 10.9-16"
+                }
+            }
+        ],
+        "saints": [
+            "Hieromartyr Hypatius, Bishop of Gangra (326)",
+            "St Jonah, Metropolitan of Moscow (1461)"
+        ],
+        "service_notes": null,
+        "summary_title": "Repose St Innocent, Metr. Moscow and Apostle to Americas",
+        "titles": [
+            "Lunes de la Quinta Semana de Cuaresma"
+        ],
+        "tone": 7,
+        "weekday": 1,
+        "year": 2025
+    }
+]
