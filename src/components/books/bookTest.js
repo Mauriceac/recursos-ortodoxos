@@ -22,7 +22,7 @@ export default function BookTemplate( {data}) {
               <td style={{ padding: '10px', border: '1px solid black' }}>{entry.lines.join(', ')}</td>
               <td style={{ padding: '10px', border: '1px solid black' }}>{entry.greek}</td>
               <td style={{ padding: '10px', border: '1px solid black' }}>{entry.spanish}</td>
-              <td style={{ padding: '10px', border: '1px solid black' }}>{entry.notes || 'No notes available'}</td>
+              <td style={{ padding: '10px', border: '1px solid black' }}>{entry.notes || 'No hay notas.'}</td>
             </tr>
           ))}
         </tbody>

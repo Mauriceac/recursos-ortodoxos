@@ -1,161 +1,190 @@
 [
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "ἐκφαντορίας ὁ τρόπος: ὁ µὲν ὡς εἰκὸς διὰ τῶν ὁµοίων προϊὼν ἱεροτύπων εἰκόνων, ὁ δὲ διὰ τῶν ἀνοµοίων µορφοποιϊῶν εἰς τὸ παντελῶς ἀπεοικὸς καὶ ἀπεµφαῖνον πλαττόµενος.",
     "lines": [
-      115,
-      116,
-      117
+      0.00115,
+      0.00116,
+      0.00117
     ],
     "section": 3,
-    "spanish": "El modo de manifestación: uno, como es natural, procede a través de imágenes jerotípicas similares, el otro, a través de formaciones disímiles, plasmándose en lo completamente desemejante e inexpresivo.",
+    "spanish": "El modo de manifestación: uno, como es natural, procede a través de imágenes simbólicas similares; el otro, a través de configuraciones disímiles, plasmándose en lo totalmente desemejante e irrepresentable.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
-    "greek": "Αµέλει καὶ τὴν σεβασµίαν τῆς ὑπερουσίου θεαρχίας µακαριότητα τῶν ἐκφαντορικῶν λογίων αἱ µυστικαὶ παραδόσεις ποτὲ µὲν ὡς λόγον καὶ νοῦν καὶ οὐσίαν ὑµνοῦσι",
+    "greek": "Ἀµέλει καὶ τὴν σεβασµίαν τῆς ὑπερουσίου θεαρχίας µακαριότητα τῶν ἐκφαντορικῶν λογίων αἱ µυστικαὶ παραδόσεις ποτὲ µὲν ὡς λόγον καὶ νοῦν καὶ οὐσίαν ὑµνοῦσι",
     "lines": [
-      118,
-      119,
-      120
+      0.00118,
+      0.00119,
+      0.0012
     ],
     "section": 3,
-    "spanish": "Ciertamente, las tradiciones místicas de los escritos manifestativos a veces alaban la venerable bienaventuranza de la superesencial tearquía como razón, intelecto y esencia.",
-    "title": "De Caelesti Hierarchia"
+    "spanish": "Ciertamente, las tradiciones místicas de los escritos manifestativos a veces alaban la venerable bienaventuranza de la jerarquía divina sobreesencial como razón, intelecto y esencia.",
+    "title": "De Caelesti Hierarchia",
+    "notes": "Aquí, Dionisio introduce la idea de que la divinidad puede ser comprendida a través de múltiples lentes, incluyendo la razón (λόγον), el intelecto (νοῦν) y la esencia (οὐσίαν)."
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "τὴν θεοπρεπῆ λογιότητα καὶ σοφίαν αὐτῆς δηλοῦσαι καὶ ὄντως οὖσαν ὕπαρξιν καὶ τῆς τῶν ὄντων ὑπάρξεως αἰτίαν ἀληθινήν, καὶ ὡς φῶς αὐτὴν ἀναπλάττουσι καὶ ζωὴν ἀποκαλοῦσι, τῶν τοιούτων ἱερῶν ἀναπλασµάτων σεµνοτέρων µὲν ὄντων καὶ τῶν προσύλων µορφώσεων ὑπερκεῖσθαί πως δοκούντων, ἀποδεόντων δὲ καὶ οὕτω τῆς θεαρχικῆς πρὸς ἀλήθειαν ἐµφερείας",
     "lines": [
-      120,
-      121,
-      122,
-      123,
-      124,
-      125
+      0.0012,
+      0.00121,
+      0.00122,
+      0.00123,
+      0.00124,
+      0.00125
     ],
     "section": 3,
-    "spanish": "revelando su razón y sabiduría divinamente apropiadas, y como una existencia verdaderamente existente y la causa verdadera de la existencia de los seres, y la representan como luz y la llaman vida, siendo tales representaciones sagradas más venerables y pareciendo de alguna manera estar por encima de las formaciones materiales, pero aun así quedando por debajo de la manifestación teárquica hacia la verdad.",
-    "title": "De Caelesti Hierarchia"
+    "spanish": "revelando su λογιότητα y σοφία divinamente apropiadas, y una existencia que realmente es, y la causa verdadera de la existencia de los seres, y la representan como luz y la llaman vida, siendo tales representaciones sagradas más venerables y pareciendo de algún modo estar por encima de las representaciones materiales, pero aun así quedando por debajo de la manifestación veraz de la jerarquía divina.",
+    "title": "De Caelesti Hierarchia",
+    "notes": "Λογιότητα se refiere a la racionalidad o la cualidad de ser lógico, mientras que σοφία significa sabiduría.  Dionisio destaca que incluso las representaciones más elevadas (luz y vida) son inadecuadas para describir la verdadera naturaleza divina."
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "ἔστι γὰρ ὑπὲρ πᾶσαν οὐσίαν καὶ ζωήν, οὐδενὸς µὲν αὐτὴν φωτὸς χαρακτηρίζοντος παντὸς δὲ λόγου καὶ νοῦ τῆς ὁµοιότητος αὐτῆς ἀσυγκρίτως ἀπολειποµένων",
     "lines": [
-      126,
-      127,
-      128
+      0.00126,
+      0.00127,
+      0.00128
     ],
     "section": 3,
     "spanish": "pues está por encima de toda esencia y vida, sin que ninguna luz la caracterice, sino que toda razón e intelecto se quedan incomparablemente cortos de su semejanza.",
-    "title": "De Caelesti Hierarchia"
+    "title": "De Caelesti Hierarchia",
+    "notes": "Dionisio enfatiza la trascendencia de Dios, que está más allá de toda categoría o atributo que podamos concebir. Ni siquiera la luz (φωτός), que a menudo se asocia con lo divino, puede caracterizar plenamente a Dios."
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "ποτὲ δὲ ταῖς ἀποφατικαῖς ἐκφαντορίαις ὑπὸ τῶν αὐτῶν λογίων ὑπερκοσµίως ὑµνεῖται, ἀόρατον αὐτὴν καὶ ἄπειρον καὶ ἀχώρητον ἀποκαλούντων καὶ τὰ <λοιπὰ> ἐξ ὧν οὐ τί ἐστιν, ἀλλὰ τί οὐκ ἔστιν σηµαίνεται.",
     "lines": [
-      128,
-      129,
-      130,
-      131
+      0.00128,
+      0.00129,
+      0.0013,
+      0.00131
     ],
     "section": 3,
-    "spanish": "a veces es alabada trascendentalmente por los mismos escritos mediante manifestaciones negativas, llamándola invisible, infinita e incomprensible, y las demás cosas a partir de las cuales no se indica lo que es, sino lo que no es.",
-    "title": "De Caelesti Hierarchia"
+    "spanish": "pero a veces es alabada trascendentalmente por los mismos escritos mediante manifestaciones apofáticas, que la llaman invisible, infinita e incomprensible, y las otras cosas a partir de las cuales no se significa lo que es, sino lo que no es.",
+    "title": "De Caelesti Hierarchia",
+    "notes": "Dionisio introduce el concepto de teología apofática o negativa. En lugar de describir a Dios por lo que es, se le describe por lo que no es (ἀόρατον, ἄπειρον, ἀχώρητον). Esta aproximación busca trascender las limitaciones del lenguaje humano para acercarse a lo inefable."
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Τοῦτο γὰρ ὡς οἶµαι καὶ κυριώτερόν ἐστιν ἐπ' αὐτῆς, ἐπείπερ, ὡς ἡ κρυφία καὶ ἱερατικὴ παράδοσις ὑφηγήσατο, τὸ µὲν οὐκ εἶναι κατά τι τῶν ὄντων αὐτὴν ἀληθεύοµεν, ἀγνοοῦµεν δὲ τὴν ὑπερούσιον αὐτῆς καὶ ἀνόητον καὶ ἄρρητον ἀοριστίαν.",
     "lines": [
-      132,
-      133,
-      134,
-      135
+      0.00132,
+      0.00133,
+      0.00134,
+      0.00135
     ],
     "section": 3,
-    "spanish": "Pues esto, como creo, es también más propio de ella, ya que, como ha señalado la tradición oculta y sacerdotal, afirmamos que ella no es según algo de los seres, pero ignoramos su superesencial, ininteligible e inefable indefinición.",
-    "title": "De Caelesti Hierarchia"
+    "spanish": "Pues esto, creo, es también más propio de ella, ya que, como ha señalado la tradición oculta y sacerdotal, afirmamos la verdad de que no es según algo de los seres, pero ignoramos su sobreesencial, ininteligible e inefable indeterminación.",
+    "title": "De Caelesti Hierarchia",
+    "notes": "Dionisio enfatiza la importancia de la teología negativa y reconoce los límites del conocimiento humano frente a la naturaleza trascendente de Dios.  La 'ὑπερούσιον... ἀοριστίαν' (sobreesencial indeterminación) subraya que Dios está más allá de nuestra capacidad de definición o comprensión."
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Εἰ τοίνυν αἱ µὲν ἀποφάσεις ἐπὶ τῶν θείων ἀληθεῖς, αἱ δὲ καταφάσεις ἀνάρµοστοι τῇ κρυφιότητι τῶν ἀποῤῥήτων, οἰκειοτέρα µᾶλλόν ἐστιν ἐπὶ τῶν ἀοράτων ἡ διὰ τῶν ἀνοµοίων ἀναπλάσεων ἐκφαντορία.",
     "lines": [
-      136,
-      137,
-      138,
-      139
+      0.00136,
+      0.00137,
+      0.00138,
+      0.00139
     ],
     "section": 3,
-    "spanish": "Por tanto, si las negaciones sobre lo divino son verdaderas, pero las afirmaciones son inadecuadas a la ocultación de lo inefable, la manifestación a través de representaciones disímiles es más apropiada sobre lo invisible.",
+    "spanish": "Por tanto, si las negaciones sobre lo divino son verdaderas, pero las afirmaciones son incompatibles con el carácter oculto de lo inefable, la manifestación a través de representaciones disímiles es más apropiada para lo invisible.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Τιµῶσι τοιγαροῦν, οὐκ αἴσχους ἀποπληροῦσι τὰς οὐρανίας διακοσµήσεις αἱ τῶν λογίων ἱερογραφίαι ταῖς ἀνοµοίοις αὐτὰς µορφοποιίαις ἐκφαίνουσαι καὶ διὰ τούτων ἀποδεικνῦσαι τῶν ὑλικῶν ἁπάντων ὑπερκοσµίως ἐκβεβηκυίας.",
     "lines": [
-      140,
-      141,
-      142,
-      143
+      0.0014,
+      0.00141,
+      0.00142,
+      0.00143
     ],
     "section": 3,
-    "spanish": "Por lo tanto, las sagradas escrituras de los escritos honran, no llenan de vergüenza, las disposiciones celestiales al manifestarlas con formaciones disímiles y, a través de estas, demostrar que se han alejado trascendentalmente de todas las cosas materiales.",
+    "spanish": "Por consiguiente, las sagradas escrituras de los escritos honran, y no llenan de vergüenza, las disposiciones celestiales, manifestándolas con configuraciones disímiles y demostrando a través de ellas que han trascendido trascendentalmente todas las cosas materiales.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Ὅτι δὲ καὶ τὸν ἡµέτερον νοῦν ἀνάγουσι µᾶλλον αἱ ἀπεµφαίνουσαι τῶν ὁµοιοτήτων, οὐκ οἶµαί τινα τῶν εὐφρονούντων ἀντερεῖν.",
     "lines": [
-      144,
-      145,
-      146
+      0.00144,
+      0.00145,
+      0.00146
     ],
     "section": 3,
-    "spanish": "Y que las representaciones inexpresivas elevan más nuestra mente que las similitudes, no creo que ninguno de los sensatos lo niegue.",
+    "spanish": "Y que las representaciones que no se asemejan elevan más nuestra mente que las similitudes, no creo que nadie de los que piensan sensatamente lo niegue.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Εἰς µὲν γὰρ τὰς τιµιωτέρας ἱεροπλαστίας εἰκός ἐστι καὶ πλανηθῆναι, χρυσοειδεῖς τινας οἰοµένους εἶναι τὰς οὐρανίας οὐσίας καὶ φωτοειδεῖς τινας ἄνδρας καὶ ἐξαστράπτοντας, εὐπρεπεῖς, ἠµφιεσµένους ἐσθῆτα φανὴν καὶ τὸ πυρῶδες ἀβλαβῶς ἀποστίλβοντας καὶ ὅσοις ἄλλοις ὁµοιοτυπώτοις κάλλεσιν ἡ θεολογία τοὺς οὐρανίους ἐσχηµάτισε νόας.",
     "lines": [
-      147,
-      148,
-      149,
-      150,
-      151
+      0.00147,
+      0.00148,
+      0.00149,
+      0.0015,
+      0.00151
     ],
     "section": 3,
-    "spanish": "Pues en las representaciones sagradas más honradas es posible incluso extraviarse, creyendo que las sustancias celestiales son como de oro y que algunos hombres son como de luz y resplandecientes, bien parecidos, vestidos con ropas brillantes y reflejando inofensivamente lo ígneo, y con cuantas otras bellezas similares la teología ha modelado las inteligencias celestiales.",
+    "spanish": "Pues en las representaciones sagradas más honorables es probable incluso extraviarse, creyendo que las esencias celestiales son como de oro y que algunos hombres son como de luz y resplandecientes, hermosos, vestidos con ropas brillantes y reflejando inofensivamente lo ígneo, y con cuantas otras bellezas similares la teología ha configurado las mentes celestiales.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
-    "greek": "Ὅπερ ἵνα µὴ πάθοιεν οἱ µηδὲν τῶν φαινοµένων καλῶν ὑψηλότερον ἐννενοηκότες, ἡ τῶν ὁσίων θεολόγων ἀνατατικὴ σοφία καὶ πρὸς τὰς ἀπεµφαινούσας ἀνοµοιότητας ἱερῶς κατάγεται, µὴ συγχωροῦσα τὸ πρόσυλον ἡµῶν εἰς τὰς αἰσχρὰς εἰκόνας ἀποµένον ἐπαναπαύεσθαι, διανιστῶσα δὲ τὸ ἀνωφερὲς τῆς ψυχῆς καὶ ὑπονύττουσα τῇ δυσµορφίᾳ τῶν συνθηµάτων ὡς µήτε θεµιτοῦ µηδὲ ἀληθοῦς δοκοῦντος εἶναι µηδὲ τοῖς ἄγαν προσύλοις, ὅτι τοῖς οὕτως αἰσχροῖς ἐµφερῆ πρὸς ἀλήθειάν ἐστι τὰ ὑπερουράνια καὶ θεῖα θεάµατα.",
+    "greek": "Ὅπερ ἵνα µὴ πάθοιεν οἱ µηδὲν τῶν φαινοµένων καλῶν ὑψηλότερον ἐννενοηκότες, ἡ τῶν ὁσίων θεολόγων ἀνατατικὴ σοφία καὶ πρὸς τὰς ἀπεµφαινούσας ἀνοµοιότητας ἱερῶς κατάγεται, µὴ συγχωροῦσα τὸ πρόσυλον ἡµῶν εἰς τὰς αἰσχρὰς εἰκόνας ἀποµένον ἐπαναπαύεσθαι, διανιστῶσα δὲ τὸ ἀνωφερὲς τῆς ψυχῆς καὶ ὑπονύττουσα τῇ δυσµορφίᾳ τῶν συνθηµάτων ὡς µήτε θεµιτοῦ µηδὲ ἀληθοῦς δοκοῦντος εἶναι",
     "lines": [
-      152,
-      153,
-      154,
-      155,
-      156,
-      157,
-      158,
-      159,
-      160
+      0.00152,
+      0.00153,
+      0.00154,
+      0.00155,
+      0.00156,
+      0.00157,
+      0.00158
     ],
     "section": 3,
-    "spanish": "Para que no padezcan esto aquellos que no han concebido nada más elevado que las bellezas aparentes, la sabiduría anagógica de los santos teólogos se dirige también sagradamente hacia las disimilitudes inexpresivas, no permitiendo que lo material nuestro, permaneciendo en las imágenes feas, descanse, sino que levanta la parte superior del alma e insinúa con la fealdad de los símbolos que no parece ser ni lícito ni verdadero, ni siquiera para los demasiado materiales, que las visiones supercelestiales y divinas se asemejan en verdad a cosas tan feas.",
+    "spanish": "Para que no padezcan esto aquellos que no han concebido nada más elevado que las bellezas fenoménicas, la sabiduría anagógica de los santos teólogos desciende sagradamente también a las disimilitudes que no se asemejan, no permitiendo que lo material nuestro permanezca descansando en las imágenes feas, sino elevando la parte superior del alma e insinuando con la fealdad de los símbolos que no parece ser ni lícito ni verdadero.",
     "title": "De Caelesti Hierarchia"
   },
   {
+    "author": "Pseudo Dionisio Areopagita",
+    "chapter": 2,
+    "greek": "µηδὲ τοῖς ἄγαν προσύλοις, ὅτι τοῖς οὕτως αἰσχροῖς ἐµφερῆ πρὸς ἀλήθειάν ἐστι τὰ ὑπερουράνια καὶ θεῖα θεάµατα.",
+    "lines": [
+      0.00158,
+      0.00159,
+      0.0016
+    ],
+    "section": 3,
+    "spanish": "ni siquiera para los demasiado materiales, que las visiones sobrecelestiales y divinas se asemejan en verdad a las cosas tan feas.",
+    "title": "De Caelesti Hierarchia"
+  },
+  {
+    "author": "Pseudo Dionisio Areopagita",
     "chapter": 2,
     "greek": "Ἄλλως τε καὶ τοῦτο ἐννοῆσαι χρὴ τὸ µηδὲ ἓν τῶν ὄντων εἶναι καθόλου τῆς τοῦ καλοῦ µετουσίας ἐστερηµένον, εἴπερ ὡς ἡ τῶν λογίων ἀλήθειά φησι «Πάντα καλὰ λίαν».",
     "lines": [
-      161,
-      162,
-      163
+      0.00161,
+      0.00162,
+      0.00163
     ],
     "section": 3,
-    "spanish": "Por otra parte, también hay que tener en cuenta que ninguno de los seres está totalmente privado de la participación de lo bello, ya que, como dice la verdad de los escritos: «Todas las cosas son muy buenas».",
-    "title": "De Caelesti Hierarchia"
+    "spanish": "Además, es necesario considerar esto: que ni una sola de las cosas que existen está totalmente privada de la participación de lo bello, ya que, como dice la verdad de los escritos: «Todas las cosas son muy buenas».",
+    "title": "De Caelesti Hierarchia",
+    "notes": "La cita «Πάντα καλὰ λίαν» proviene de Génesis 1:31 (καὶ εἶδεν ὁ θεὸς τὰ πάντα ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν). Dionisio utiliza esta referencia bíblica para argumentar que incluso las representaciones 'feas' tienen un valor en cuanto participan de la belleza divina."
   }
 ]
