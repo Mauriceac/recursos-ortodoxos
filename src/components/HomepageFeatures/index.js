@@ -4,7 +4,7 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Calendarios',
+    title: <a href='docs/calendars/'>Calendarios</a>,
     Svg: require('@site/static/img/calendar.svg').default,
     description: (
       <>
@@ -14,7 +14,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Libros',
+    title: <a href='docs/books/'>Textos Griegos Antiguos</a>,
     Svg: require('@site/static/img/book.svg').default,
     description: (
       <>

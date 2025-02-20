@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const bookName = 'in_epistulam_ad_romanos';
+const bookName = 'de_caelesti_hierarchia';
 
 const sourceDir = path.join(__dirname, `../databases/books/${bookName}`);
 const targetDir = path.join(__dirname, `../../docs/books/${bookName}`);
@@ -25,7 +25,7 @@ fs.readdir(sourceDir, (err, files) => {
       section = section.padStart(2, '0');
 
       const mdxContent = `---
-title: In espitulam ad Romanos ${chapter}, ${section}
+title: CH ${chapter}, ${section}
 ---
 import Book from '@site/src/components/books/bookTest.js'
 import Content from '@site/src/databases/books/${bookName}/${fileName}.md.json'
@@ -33,12 +33,13 @@ import Content from '@site/src/databases/books/${bookName}/${fileName}.md.json'
 <Book data={Content}/>
 `;
 
-// create directory if it doesn't exist
-      if (!fs.existsSync(targetDir)) {
-        fs.mkdirSync(targetDir, { recursive: true });
+      // Create chapter directory if it doesn't exist
+      const chapterDir = path.join(targetDir, `chapter_${chapter}`);
+      if (!fs.existsSync(chapterDir)) {
+        fs.mkdirSync(chapterDir, { recursive: true });
       }
 
-      const targetFilePath = path.join(targetDir, `${chapter}-${section}.mdx`);
+      const targetFilePath = path.join(chapterDir, `${section}.mdx`);
       fs.writeFile(targetFilePath, mdxContent, err => {
         if (err) {
           console.error('Error writing file:', err);
