@@ -1,3 +1,8 @@
 {
-    "label": "Homilías sobre la Epístola a los Romanos"
+    "label": "Homilías sobre la Epístola a los Romanos",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Traducción con notas de la obra de San Juan Crisóstomo."
+    }
 }
