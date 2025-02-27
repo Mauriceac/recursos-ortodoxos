@@ -1,41 +1,11 @@
-# Website
+## Repositorio de recursos ortodoxos en español
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+_En construcción..._
 
-### Installation
+Este es un repositorio de calendarios y obras literarias antiguos traducidas al español con inteligencia artificial.
 
-```
-$ yarn
-```
+El propósito de nuestra biblioteca digital es acercar a los cristianos ortodoxos de habla hispana o cualquier otra persona interesada a los textos orginiales de los Padres de la Iglesia y otros autores antiguos.
 
-### Local Development
+Nuestro calendario también intenta ser una herramienta para que los fieles ortodoxos puedan seguir las fiestas y ayunos correspondientes. Esperamos pronto agregar más información al calendario, como vida de santos y lecturas bíblicas.
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+El sitio está bajo construcción. Cualquiera puede cooperar en mejorar esta iniciativa.

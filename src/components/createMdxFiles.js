@@ -1,10 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
-const bookName = 'de_caelesti_hierarchia';
+const author = 'juan_crisostomo';
+const bookName = 'de_jujunio_01';
 
-const sourceDir = path.join(__dirname, `../databases/books/${bookName}`);
-const targetDir = path.join(__dirname, `../../docs/books/${bookName}`);
+const sourceDir = path.join(__dirname, `../databases/books/${author}/${bookName}`);
+const targetDir = path.join(__dirname, `../../docs/books/${author}/${bookName}`);
 
 fs.readdir(sourceDir, (err, files) => {
   if (err) {
@@ -28,7 +29,7 @@ fs.readdir(sourceDir, (err, files) => {
 title: CH ${chapter}, ${section}
 ---
 import Book from '@site/src/components/books/bookTest.js'
-import Content from '@site/src/databases/books/${bookName}/${fileName}.md.json'
+import Content from '@site/src/databases/books/${author}/${bookName}/${fileName}.md.json'
 
 <Book data={Content}/>
 `;

@@ -1,0 +1,89 @@
+#root {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.bibleApp {
+  display: grid;
+  width: 1260px;
+  margin-left: auto;
+  margin-right: auto;
+  /* grid-template-rows: 80px 25px 25px;  */
+  grid-auto-columns: 300px;
+  grid-template-areas: 
+      "title title title title"
+      "nav0 nav1 nav1 calendar"
+      "nav2 nav3 nav4 cal-res"
+      "verse2 verse1 dictionary dictionary"
+      "verse2 verse1 dictionary dictionary";
+  gap: 20px;
+  padding: 20px;
+}
+
+
+.header {
+  background-color: rgb(193, 193, 193);
+  grid-area: title;
+}
+
+.languageBar {
+  grid-area: nav0;
+}
+
+.translationBar {
+  grid-area: nav1;
+}
+
+.bookBar {
+  grid-area: nav2;
+}
+
+.chapterBar {
+  grid-area: nav3;
+}
+
+.verseBar {
+  grid-area: nav4;
+}
+
+.verseDisplay
+{
+  grid-area: verse2;
+}
+
+.verseOriginal
+{
+  grid-area: verse1;
+  
+}
+
+.verseOriginal span:hover {
+  background-color: yellow;
+  cursor: pointer;
+}
+
+.secondaryDisplay {
+  grid-area: dictionary;
+  text-align: left;
+  z-index: 100;
+  /* display: none; */
+}
+
+.open {
+  padding: 20px;
+  border: 1px solid black;
+  display: block !important;
+  opacity: 1 !important;
+  transform: translateX(0) !important;
+  transition: opacity 50ms, transform 50ms ease-in;;
+}
+
+.close {
+  padding: 20px;
+  border: 1px solid black;
+  opacity: 0;
+  transform: translateX(100%);
+  transition: opacity 50ms, transform 50ms ease-out;
+}

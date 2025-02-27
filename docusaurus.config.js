@@ -101,6 +101,12 @@ const config = {
             label: 'Libros',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'bible',
+            position: 'left',
+            label: 'Biblia',
+          },
+          {
             href: 'https://github.com/Mauriceac/recursos-ortodoxos',
             label: 'GitHub',
             position: 'right',
