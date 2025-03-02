@@ -35,7 +35,7 @@
 .day {
   border: 1px solid #ccc;
   padding: 5px;
-  height: 400px;
+  /* height: 400px; */
   text-align: center !important;
   justify-content: center !important;
   /* width: 200px; */
@@ -51,7 +51,7 @@
 
 .dayTitle {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-transform:uppercase;
+  /* text-transform:uppercase; */
   font-size: 0.6em;
   font-weight: 100;
   /* font-style: italic; */
@@ -68,7 +68,7 @@
   /* text-align: left !important; */
   /* padding-top: 1em; */
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  text-transform:uppercase;
+  /* text-transform:uppercase; */
   font-size: 0.6em;
   font-weight:100;
   font-style: italic;
@@ -88,7 +88,7 @@
 }
 
 .fastLevel {
-  font-size: calc(10px + 0.2vw); /* 0.7em + 0.2vw */
+  font-size: calc(8px + 0.2vw);
   font-weight: 500;
   text-align: right !important;
   /* padding-top: 1em; */
@@ -97,7 +97,7 @@
 }
 
 .fastException {
-  font-size: calc(10px + 0.2vw); /* 0.7em + 0.2vw */
+  font-size: calc(6px + 0.2vw);
   font-weight: 200;
   font-style: italic;
   text-align: right !important;

@@ -1,12 +1,11 @@
 import "./App.css";
-
-
-import DayData from "./DayData";
+// import DayData from "./days/spanish/2025-02_translated.json";
+import DayForm from "./DayForm.jsx";
 
 // import { MONTH, MONTH_NAME, YEAR } from './variables.js';
 
 
-function App({ MONTH, YEAR, DAY_DATA_TRANSLATION }) {
+function MonthCalendar({ MONTH, YEAR, DayData }) {
   const weekdays = [
     "domingo",
     "lunes",
@@ -30,6 +29,8 @@ function App({ MONTH, YEAR, DAY_DATA_TRANSLATION }) {
   return (
     <>
       <div className="App">
+        <header className="App-header">
+        </header>
         <main>
           <div className="calendar">
             {weekdays.map((weekday) => (
@@ -41,8 +42,8 @@ function App({ MONTH, YEAR, DAY_DATA_TRANSLATION }) {
             {Array.from({ length: startingWeekday }).map((_, index) => (
               <div key={`empty-${index}`} className="emptyDay"></div>
             ))}
-            {DAY_DATA_TRANSLATION.map((day) => (
-              <DayData key={day.day} {...day} />
+            {DayData.map((day) => (
+              <DayForm key={day.day} {...day} />
             ))}
           </div>
         </main>
@@ -51,4 +52,4 @@ function App({ MONTH, YEAR, DAY_DATA_TRANSLATION }) {
   );
 }
 
-export default App;
+export default MonthCalendar;
