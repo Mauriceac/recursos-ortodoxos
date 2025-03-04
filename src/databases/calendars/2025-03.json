@@ -1793,6 +1793,393 @@
     "feasts": []
   },
   {
+    "day": 7,
+    "fast_exception_desc": "Sin anulaciones",
+    "fast_level_desc": "Ayuno de Cuaresma",
+    "month": 3,
+    "readings": [
+      {
+        "book": "OT",
+        "description": "",
+        "display": "Isaías 3.1-14",
+        "passage": [
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 1
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 2
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 3
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 4
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 5
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 6
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 7
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 8
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 9
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 10
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 11
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 12
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 13
+          },
+          {
+            "book": "ISA",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 14
+          }
+        ],
+        "short_display": "Isa 3.1-14",
+        "source": "6th Hour"
+      },
+      {
+        "book": "OT",
+        "description": "",
+        "display": "Génesis 2.20-3.20",
+        "passage": [
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": false,
+            "verse": 20
+          },
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": true,
+            "verse": 21
+          },
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": false,
+            "verse": 22
+          },
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": false,
+            "verse": 23
+          },
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": false,
+            "verse": 24
+          },
+          {
+            "book": "GEN",
+            "chapter": 2,
+            "paragraph_start": false,
+            "verse": 25
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 1
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 2
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 3
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 4
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 5
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 6
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 7
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 8
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 9
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 10
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 11
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 12
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 13
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 14
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 15
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 16
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 17
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 18
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 19
+          },
+          {
+            "book": "GEN",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 20
+          }
+        ],
+        "short_display": "Gen 2.20-3.20",
+        "source": "Vespers"
+      },
+      {
+        "book": "OT",
+        "description": "",
+        "display": "Proverbios 3.19-34",
+        "passage": [
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 19
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 20
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 21
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 22
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 23
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 24
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 25
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 26
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 27
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 28
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 29
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 30
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 31
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 32
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": false,
+            "verse": 33
+          },
+          {
+            "book": "PRO",
+            "chapter": 3,
+            "paragraph_start": true,
+            "verse": 34
+          }
+        ],
+        "short_display": "Prov 3.19-34",
+        "source": "Vespers"
+      }
+    ],
+    "saints": [
+      "Siete Hieromártires de Quersoneso"
+    ],
+    "stories": [
+      {
+        "story": "<p>Estos siete santos obispos dan una imagen vívida de los peligros que sufrieron aquellos que viajaron para proclamar el Evangelio de Cristo en los primeros siglos de la Iglesia. Los siete fueron enviados como obispos misioneros a Quersoneso en el Mar Negro, y los siete murieron allí como mártires. Hermón, obispo de Jerusalén, envió primero a Efraín y Basileo; Basileo resucitó al hijo del príncipe de Quersoneso, después de lo cual muchos creyeron y fueron bautizados. Los incrédulos, sin embargo, lo ataron de los pies y lo arrastraron por las calles hasta que murió. Efraín fue decapitado cuando se negó a hacer sacrificios a los ídolos. Entonces, Eugenio, Agatodoro y Elpidio fueron enviados por el obispo de Jerusalén; fueron golpeados hasta la muerte con varas y piedras. Aeterio fue enviado durante el reinado de Constantino el Grande, y pudo gobernar la Iglesia en libertad y paz, y construir una iglesia en Quersoneso. Capitón, el último en ser enviado, llevó el Evangelio a los feroces escitas. Para probar el poder de su Dios, le pidieron que entrara en un horno encendido, diciendo que si no se consumía, creerían. Poniendo toda su confianza en Dios, el santo obispo se vistió, hizo la señal de la Cruz y entró en el horno. Estuvo de pie en las llamas, orando fervientemente, durante una hora, y salió ileso. Los espectadores gritaron: 'Hay un solo Dios, el gran y poderoso Dios de los cristianos, que mantiene a salvo a su siervo en el horno ardiente', y todos los que estaban en la ciudad y en el campo circundante fueron bautizados. Este milagro fue mencionado en el Concilio de Nicea (325). Más tarde, los escitas incrédulos capturaron a Capitón y lo ahogaron en el río Dniéper.</p>\n<p>El <i>Prólogo</i> dice que Aeterio terminó su vida en paz; el <i>Gran Horologion,</i> que se ahogó. Todos estos santos misioneros trabajaron alrededor de principios del siglo IV.</p>",
+        "title": "Santos Hieromártires de Quersoneso: Basileo, Efraín, Eugenio, Capitón, Aeterio, Agatodoro y Elpidio (siglo IV)"
+      }
+    ],
+    "summary_title": "Siete Hieromártires de Quersoneso",
+    "titles": [
+      "Viernes de la Primera Semana de Cuaresma"
+    ],
+    "weekday": 5,
+    "year": 2025,
+    "feasts": []
+  },
+  {
     "day": 8,
     "fast_exception_desc": "Se permite vino y aceite",
     "fast_level_desc": "Ayuno de Cuaresma",
