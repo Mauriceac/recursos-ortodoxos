@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Recursos Ortodoxos',
   tagline: 'Sitio web con recursos ortodoxos traducidos al español',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/orthodox_cross.svg',
 
   // Set the production url of your site here
   url: 'https://recursos-ortodoxos.github.io',
