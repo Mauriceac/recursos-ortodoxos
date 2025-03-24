@@ -1,0 +1,12 @@
+---
+title: Sobre el Ayuno (01)
+---
+
+import Content from '@site/src/databases/books/juan_crisostomo/de_jujunio_01/de_junino_complete.json'
+import Book, { generateTOC } from '@site/src/components/books/bookDisplay.js'
+
+_Iohannes Chrysostomus - De jejunio [1]_
+
+<Book data={Content} />
+
+export const toc = generateTOC(Content);
